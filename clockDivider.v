@@ -1,5 +1,5 @@
 // file: Clock_Divider.v
-// author: @mahmoudelsayed
+
 
 `timescale 1ns/1ns
 
