@@ -1,5 +1,4 @@
-// file: Traffic_Light.v
-// author: @mahmoudelsayed
+
 
 `timescale 1ns/1ns
 
